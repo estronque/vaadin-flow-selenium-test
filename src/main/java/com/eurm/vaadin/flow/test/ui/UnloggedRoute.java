@@ -127,7 +127,7 @@ public class UnloggedRoute extends VerticalLayout{
 			wrapperPanelFields.getStyle().set("border-style", "solid");
 			//: solid
 			
-			Html user4eo = new Html("<center><h1 style=\"color:#FFFFFF;\">ASMADII LOGIN </h1> </center>");
+			Html user4eo = new Html("<center><h1 style=\"color:#FFFFFF;\">LOGIN </h1> </center>");
 			
 			Div wrapperPanelTitle = new Div();
 			wrapperPanelTitle.setSizeUndefined();
